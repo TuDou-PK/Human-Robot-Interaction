@@ -7,3 +7,24 @@ Project for courses [Human robot interaction](https://sites.google.com/a/dis.uni
 
 ## Introduction
 
+This project combines human-computer interaction(HRI) and reasoning agent[RA] course, We use pepper robot and develop features such as
+
+- HRI Part
+  - AI communication
+
+
+
+
+
+
+
+we use pepper robot, detailed environment configuration as follows.
+
+- 1. Follow the instructions of [pepper instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_pepper.md).
+
+- 2. Follow the instructions of [emulator instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_emulator.md).
+
+- 3. Follow the instructions for the [first test](https://github.com/pepes97/Pepper-Interaction/blob/main/fist_test.md).
+
+
+
