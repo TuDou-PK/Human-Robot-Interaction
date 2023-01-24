@@ -36,9 +36,10 @@ we use pepper robot, detailed environment configuration as follows.
 - 3. Follow the instructions for the [first test](https://github.com/pepes97/Pepper-Interaction/blob/main/fist_test.md).
 
 
+
 ## Demo Video
 
 
 
-[![SC2 Video](demo.gif)](https://drive.google.com/file/d/1vrxzb2LU1vio_-HSVZDzIW95hidYQB3B/view?usp=sharing) 
+[![SC2 Video](demo.gif)](https://youtu.be/JK_0jEA90xo)
 
