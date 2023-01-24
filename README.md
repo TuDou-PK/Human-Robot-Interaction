@@ -39,7 +39,4 @@ we use pepper robot, detailed environment configuration as follows.
 
 ## Demo Video
 
-
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+[![](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1vrxzb2LU1vio_-HSVZDzIW95hidYQB3B)](https://drive.google.com/file/d/1vrxzb2LU1vio_-HSVZDzIW95hidYQB3B/view?usp=sharing "")
