@@ -5,6 +5,11 @@ Project for courses [Human robot interaction](https://sites.google.com/a/dis.uni
 
 ![sapienza-big](https://user-images.githubusercontent.com/24941293/152373391-ac062aac-750a-45cd-bf40-9851cf2911f1.png)
 
+Co-author:
+- [PK](https://github.com/TuDou-PK)
+- [SCC](https://github.com/skant626)
+- [DJN](https://github.com/Ding-Jianan)
+
 ## Introduction
 
 This project combines human-computer interaction(HRI) and reasoning agent[RA] course.
