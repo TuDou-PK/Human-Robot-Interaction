@@ -29,11 +29,11 @@ And develop applications such as
 
 we use pepper robot, detailed environment configuration as follows.
 
-- 1. Follow the instructions of [pepper instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_pepper.md).
+1. Follow the instructions of [pepper instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_pepper.md).
 
-- 2. Follow the instructions of [emulator instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_emulator.md).
+2. Follow the instructions of [emulator instructions](https://github.com/pepes97/Pepper-Interaction/blob/main/setup_emulator.md).
 
-- 3. Follow the instructions for the [first test](https://github.com/pepes97/Pepper-Interaction/blob/main/fist_test.md).
+3. Follow the instructions for the [first test](https://github.com/pepes97/Pepper-Interaction/blob/main/fist_test.md).
 
 
 
