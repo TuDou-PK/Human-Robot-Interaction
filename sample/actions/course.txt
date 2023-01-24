@@ -1,0 +1,22 @@
+IMAGE
+<*,*,*,*>:  img/sapienza.png
+----
+TEXT
+<*,*,*,*>:  What is your favourite course? 
+----
+TTS
+<*,*,*,*>:  What is your favourite course? 
+----
+BUTTONS
+AI
+<*,*,*,*>:  Artificial Intelligence
+ML
+<*,*,*,*>:  Machine Learning
+R1
+<*,*,*,*>:  Robotics 1
+DS
+<*,*,*,*>:  Distributed System
+NN
+<*,*,*,*>:  Neural Network
+----
+

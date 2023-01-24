@@ -1,0 +1,5 @@
+URL: index.html
+PROFILE: <*,*,en,*>
+TEXT: Welcome To Sapienza!
+IMAGE: img/sapienza.png
+

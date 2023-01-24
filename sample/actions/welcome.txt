@@ -1,0 +1,17 @@
+IMAGE
+<*, *, *, *>:  img/sapienza.png
+----
+TEXT
+<*,*,*,*>:  Welcome To Sapienza!
+----
+GESTURE
+<*,*,*,*>: animations/Stand/Gestures/Hey_1
+----
+TTS
+<*,*,*,*>:  Welcome To Sapienza!
+----
+BUTTONS
+start
+<*,*,*,*>:  Start
+----
+

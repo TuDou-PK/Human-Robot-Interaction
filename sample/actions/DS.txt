@@ -1,0 +1,10 @@
+IMAGE
+<*,*,*,*>:  img/DS.jpg
+----
+TEXT
+<*,*,*,*>:  Distributed systems are the basis of any modern computer application, taught by Prof. Silvia Bonomi. Room: B1, Monday 9:00-11:00
+----
+TTS
+<*,*,*,*>:  Distributed systems are the basis of any modern computer application, taught by Prof. Silvia Bonomi
+----
+

@@ -1,0 +1,9 @@
+TEXT
+<*,*,it,*>: Spero ti sia divertito. Arrivederci.
+<*,*,*,*>:  Have a Good Day. Goodbye!
+----
+TTS
+<*,*,it,*>: Spero ti sia divertito. Arrivederci.
+<*,*,*,*>:  Have a Good Day. Goodbye!
+----
+

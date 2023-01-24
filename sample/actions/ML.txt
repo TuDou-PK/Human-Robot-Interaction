@@ -1,0 +1,10 @@
+IMAGE
+<*,*,*,*>:  img/ML.jpg
+----
+TEXT
+<*,*,*,*>:  This course introduces a wide range of machine learning methods and algorithms, taught by Prof. Luca Iocchi. Room: A2, Thursday 10:00-12:00
+----
+TTS
+<*,*,*,*>:  This course introduces a wide range of machine learning methods and algorithms, taught by Prof. Luca Iocchi
+----
+

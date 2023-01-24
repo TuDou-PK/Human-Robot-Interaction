@@ -1,0 +1,16 @@
+IMAGE
+<*,*,*,*>:  img/sapienza.png
+----
+TEXT
+<*,*,*,*>:  What do you want to do?
+----
+TTS
+<*,*,*,*>:  What do you want to do?
+----
+BUTTONS
+course
+<*,*,*,*>:  Course information
+path
+<*,*,*,*>:  Finding room
+----
+

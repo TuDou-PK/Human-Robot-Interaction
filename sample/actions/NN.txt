@@ -1,0 +1,10 @@
+IMAGE
+<*,*,*,*>:  img/NN.jpg
+----
+TEXT
+<*,*,*,*>:  This course introduces the neural networks (NN) paradigms, taught by Prof. Aurelio Uncini. Room: A1, Monday 14:00-15:00
+----
+TTS
+<*,*,*,*>:  This course introduces the neural networks (NN) paradigms, taught by Prof. Aurelio Uncini
+----
+

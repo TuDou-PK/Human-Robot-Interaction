@@ -1,0 +1,13 @@
+IMAGE
+<*,*,*,*>:  img/AI.jpg
+----
+TEXT
+<*,*,*,*>:  This course teaches fundamental principles in the field of artificial intelligence, taught by Prof. Daniele Nardi. Room: B2, Friday 13:00-18:00
+----
+TTS
+<*,*,*,*>:  This course teaches fundamental principles in the field of artificial intelligence, taught by Prof. Daniele Nardi
+----
+BUTTONS
+A1
+<*,*,*,*>:  A1
+----
